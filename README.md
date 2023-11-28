@@ -45,7 +45,6 @@
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
 
-## Output:
 
 ### Name:D.B.V.SAI GANESH
 ### Register Number:23009248
